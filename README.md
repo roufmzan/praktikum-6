@@ -70,7 +70,7 @@ while True:
     print("Pilihan tidak valid.")
 ```
 ## Output
-![output]()
+![output](output.png)
 ## Flowcart
 ![Flowchart_page-0001](https://github.com/user-attachments/assets/2edd0270-6fce-4a11-b62a-0a784fb9631b)
 
