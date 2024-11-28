@@ -1,10 +1,10 @@
 # praktikum-6
 # DATA DIRI
-Nama : Sheila Antica Oktaviani
+Nama : RO'UF MUHAMMAD FAUZAN
 
 Kelas : TI.24.AI
 
-NIM : 312410002
+NIM : 312410157
 # input dan output dari Praktikum 6
 ## Input
 ```Python
