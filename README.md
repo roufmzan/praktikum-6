@@ -70,64 +70,7 @@ while True:
     print("Pilihan tidak valid.")
 ```
 ## Output
-```Python
-Menu:
-1. Tambah data mahasiswa
-2. Tampilkan data mahasiswa
-3. Hapus data mahasiswa
-4. Ubah data mahasiswa
-5. Keluar
-Pilih menu (1/2/3/4/5): 1
-Masukkan nama mahasiswa: Sheila
-Masukkan nilai mahasiswa: 87
-Data mahasiswa berhasil ditambahkan.
-
-Menu:
-1. Tambah data mahasiswa
-2. Tampilkan data mahasiswa
-3. Hapus data mahasiswa
-4. Ubah data mahasiswa
-5. Keluar
-Pilih menu (1/2/3/4/5): 1
-Masukkan nama mahasiswa: Khusnul
-Masukkan nilai mahasiswa: 87
-Data mahasiswa berhasil ditambahkan.
-
-Menu:
-1. Tambah data mahasiswa
-2. Tampilkan data mahasiswa
-3. Hapus data mahasiswa
-4. Ubah data mahasiswa
-5. Keluar
-Pilih menu (1/2/3/4/5): 1
-Masukkan nama mahasiswa: Alya 
-Masukkan nilai mahasiswa: 87
-Data mahasiswa berhasil ditambahkan.
-
-Menu:
-1. Tambah data mahasiswa
-2. Tampilkan data mahasiswa
-3. Hapus data mahasiswa
-4. Ubah data mahasiswa
-5. Keluar
-Pilih menu (1/2/3/4/5): 2
-Daftar Nilai Mahasiswa:
---------------------------
-Nama: Sheila , Nilai: 97.0
---------------------------
-Nama: khusnul , Nilai: 87.0
---------------------------
-Nama: alya , Nilai: 87.0
---------------------------
-
-Menu:
-1. Tambah data mahasiswa
-2. Tampilkan data mahasiswa
-3. Hapus data mahasiswa
-4. Ubah data mahasiswa
-5. Keluar
-Pilih menu (1/2/3/4/5): 5
-```
+![output]()
 ## Flowcart
 ![Flowchart_page-0001](https://github.com/user-attachments/assets/2edd0270-6fce-4a11-b62a-0a784fb9631b)
 
